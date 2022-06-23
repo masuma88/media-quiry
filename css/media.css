@@ -1,0 +1,40 @@
+@media only screen and (max-width:768px){                  
+    body{
+        background-color: green;
+    }
+    p{
+        color: fuchsia;
+        font-size: 25px;
+        text-align: center;
+    }
+}       
+@media only screen and (max-width:425px){                  
+    body{
+        background-color:red;
+    }
+    p{
+        color: white;
+        font-size: 20px;
+        text-align: center;
+    }
+}       
+@media only screen and (max-width:375px){                  
+    body{
+        background-color:darkblue;
+    }
+    p{
+        color: pink;
+        font-size: 15px;
+        text-align: left;
+    }
+}       
+@media only screen and (max-width:320px){                  
+    body{
+        background-color:aqua;
+    }
+    p{
+        color: tomato;
+        font-size: 15px;
+        text-align: left;
+    }
+}       
